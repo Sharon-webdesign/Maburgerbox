@@ -1056,6 +1056,54 @@ section.lazy-placeholder:after {
 .cid-s5gMtcJyB8 .mbr-section-btn {
   color: #efefef;
 }
+.cid-s5hvANHSTT {
+  padding-top: 90px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/fond2-2000x1334.png");
+}
+.cid-s5hvANHSTT .container {
+  max-width: 1500px;
+}
+.cid-s5hvANHSTT .row {
+  background: #856b39;
+}
+.cid-s5hvANHSTT .img-col {
+  padding: 0;
+}
+.cid-s5hvANHSTT .title-col {
+  padding: 4rem 8rem;
+}
+.cid-s5hvANHSTT img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.cid-s5hvANHSTT h2 {
+  padding: 0;
+  margin: 0;
+}
+.cid-s5hvANHSTT .text-wrap {
+  margin: auto;
+}
+.cid-s5hvANHSTT .mbr-text {
+  color: #c1c1c1;
+}
+@media (max-width: 1200px) {
+  .cid-s5hvANHSTT .row {
+    margin: 2rem;
+  }
+  .cid-s5hvANHSTT .title-col {
+    padding: 6rem 4rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s5hvANHSTT .row {
+    margin: 0rem;
+  }
+  .cid-s5hvANHSTT .title-col {
+    padding: 2rem 1rem;
+  }
+}
 .cid-s5gYw4j7Cn {
   padding-top: 30px;
   padding-bottom: 75px;
