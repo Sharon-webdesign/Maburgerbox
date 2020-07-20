@@ -1249,6 +1249,16 @@ section.lazy-placeholder:after {
     padding-right: 0rem;
   }
 }
+.cid-s5jvQCyO4O {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #0e0e0e;
+}
+.cid-s5jvQCyO4O .mbr-text,
+.cid-s5jvQCyO4O .ornament {
+  color: #efefef;
+  text-align: right;
+}
 .cid-s5jFaaQsF2 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1275,16 +1285,6 @@ section.lazy-placeholder:after {
 }
 .cid-s5jFaaQsF2 .popup-btn.card-wrapper {
   z-index: 1 !important;
-}
-.cid-s5jvQCyO4O {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #0e0e0e;
-}
-.cid-s5jvQCyO4O .mbr-text,
-.cid-s5jvQCyO4O .ornament {
-  color: #efefef;
-  text-align: right;
 }
 .cid-s5im6lhK01 {
   padding-top: 45px;
